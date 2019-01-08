@@ -1,0 +1,20 @@
+ext {
+    bintrayRepo = "CollapsibleButton"
+    bintrayName = "com.github.rmitsubayashi.collapsiblebutton"
+
+    libraryName = "collapsibleButton"
+
+    publishedGroupId = "com.github.rmitsubayashi.collapsiblebutton"
+    artifact = "collapsiblebutton"
+    libraryVersion = "1.0.0"
+
+    libraryDescription = "An Android library that provides a simple collapsible button (that button you toggle from 'v' to '^' to show more content."
+    siteUrl = "https://github.com/rmitsubayashi/collapsiblebutton"
+    gitUrl = "https://github.com/rmitsubayashi/collapsiblebutton.git"
+    developerId = "rmitsubayashi"
+    developerName = "Ryosuke Mitsubyashi"
+    developerEmail = "ryomitsu@gmail.com"
+    licenseName = "The MIT License"
+    licenseUrl = "https://opensource.org/licenses/mit-license.php"
+    allLicenses = ["MIT"]
+}
