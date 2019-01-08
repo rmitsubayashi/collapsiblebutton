@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Collapsible Button Library</string>
+    <string name="hide_text">hide this</string>
+    <string name="show_text">don\'t hide this</string>
+</resources>

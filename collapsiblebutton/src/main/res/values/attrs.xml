@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CollapsibleButton">
+        <attr name="expanded" format="boolean" />
+        <attr name="toExpandSrc" format="integer" />
+        <attr name="toCollapseSrc" format="integer" />
+        <attr name="targetView" format="integer" />
+    </declare-styleable>
+</resources>
