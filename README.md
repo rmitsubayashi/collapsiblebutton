@@ -7,8 +7,18 @@ Very basic collapsible button
 Gradle
 ```groovy
 dependencies {
-    implementation 'com.github.rmitsubayashi.collapsiblebutton:1.0.0'
+    implementation 'com.github.rmitsubayashi.collapsiblebutton:collapsiblebutton:1.0.0'
 }
+```
+
+Maven
+```xml
+<dependency>
+  <groupId>com.github.rmitsubayashi.collapsiblebutton</groupId>
+  <artifactId>collapsiblebutton</artifactId>
+  <version>1.0.0</version>
+  <type>pom</type>
+</dependency>
 ```
 
 ## Usage
