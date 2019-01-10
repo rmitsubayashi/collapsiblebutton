@@ -53,9 +53,9 @@ class CollapsibleButton: ImageButton {
         super.onAttachedToWindow()
         if (mPendingTargetViewID != -1) {
             mTargetView = rootView.findViewById(mPendingTargetViewID)
-            toggleTargetViewVisibility()
             mPendingTargetViewID = -1
         }
+        toggleTargetViewVisibility()
     }
 
     fun isExpanded(): Boolean = mIsExpanded

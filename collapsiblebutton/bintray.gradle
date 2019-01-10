@@ -6,7 +6,7 @@ ext {
 
     publishedGroupId = "com.github.rmitsubayashi.collapsiblebutton"
     artifact = "collapsiblebutton"
-    libraryVersion = "1.0.0"
+    libraryVersion = "1.0.1"
 
     libraryDescription = "An Android library that provides a simple collapsible button (that button you toggle from 'v' to '^' to show more content."
     siteUrl = "https://github.com/rmitsubayashi/collapsiblebutton"

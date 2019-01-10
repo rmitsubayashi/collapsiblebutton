@@ -22,7 +22,6 @@
                     android:id="@+id/collapsible_button"
                     android:layout_height="wrap_content"
                     android:layout_width="wrap_content"
-                    app:targetView="@id/target_view"
                     android:layout_gravity="end"
             />
             <TextView
